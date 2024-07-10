@@ -2,7 +2,7 @@
 - 👀 I’m interested in DevOps with Cloud Computing.
 - 🌱 I’m currently learning DevOps tools.
 - 💞️ I’m looking to collaborate on projects that require AWS.
-- 📫 How to reach me email me on peterwestwayne@gmail.com
+- 📫 How to reach me: email me on peterwestwayne@gmail.com
 - ⚡ Fun fact: I've seen The Big Bang Theory 11 times.
 
 <!---
